@@ -10,6 +10,9 @@
     <label for="psw"><b>Password:     </b></label>
     <input type="password" placeholder="Enter Password" name="psw" required>
 <br></br>
+    <label for="DOB"><b>DOB:     </b></label>
+    <input type="date" placeholder="Enter Your DOB" name="DOB" required>
+<br></br>
    <button type="submit">Login</button>
 <style>
 h1
